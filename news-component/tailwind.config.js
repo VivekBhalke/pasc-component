@@ -29,6 +29,8 @@ export default {
         'cardFirstPara' : '#3E3232' ,
         'cardSecondPara' : '#3E3232BF',
         'secondButton' : '#3E3232BF',
+        'content' : "#3E3232",
+        'readMore' : "#3E3232"
       },
       letterSpacing: {
        'cardSecondText' : '0.20px',
